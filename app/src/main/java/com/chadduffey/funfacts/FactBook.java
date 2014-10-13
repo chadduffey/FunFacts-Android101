@@ -7,7 +7,7 @@ public class FactBook {
     public String[] facts = {
             "Ants stretch when they wake up in the morning.",
             "Ostriches can run faster than horses.",
-            "Olympic gold medals are actually made mostly of silver.",
+            "Olympic gold medals are actually made mostly of silver",
             "You are born with 300 bones; by the time you are an adult you will have 206.",
             "It takes about 8 minutes for light from the Sun to reach Earth.",
             "Some bamboo plants can grow almost a meter in just one day.",
